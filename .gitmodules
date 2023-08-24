@@ -1,0 +1,6 @@
+[submodule "main_server"]
+	path = main_server
+	url = https://github.com/raccoon-pi/golang-buffalo-iFrame-PoC-main_server
+[submodule "iframe_server"]
+	path = iframe_server
+	url = https://github.com/raccoon-pi/golang-buffalo-iFrame-PoC-iframe_server
